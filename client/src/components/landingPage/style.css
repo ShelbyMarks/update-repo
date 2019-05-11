@@ -1,0 +1,38 @@
+
+
+
+.orange-text {
+    color: #ff9800 !important;
+    font-family: lobster;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1280px;
+    background: white;
+    opacity: .9;
+    width: 90%;
+}
+
+.icon-block {
+    padding: 0 15px;
+    background: white;
+    opacity: .9;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+}
+
+.responsive {
+    margin-top: 1%;
+    width: 10%;
+    height: auto;
+}
+.light{
+    text-align: center;
+}
